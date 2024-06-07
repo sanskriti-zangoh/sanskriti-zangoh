@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in exploring cutting-edge technologies, especially in the fields of AI and machine learning.
-- 🌱 I’m currently learning advanced data science techniques and enhancing my programming skills in Python and R.
+- 🌱 I’m currently learning advanced Gen AI techniques and enhancing my programming skills in Python.
 - 💞️ I’m looking to collaborate on open-source projects that aim to solve real-world problems using technology.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-singh-b1696b21b) or drop me an email at [sanskriti@zangoh.com].
 - 😄 Pronouns: She/Her
